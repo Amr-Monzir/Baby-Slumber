@@ -1,0 +1,16 @@
+{
+  "name": "BabySleep White Noise",
+  "short_name": "BabySleep",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1c2333",
+  "theme_color": "#1c2333",
+  "description": "Soothing white noise for better baby sleep.",
+  "icons": [
+    {
+      "src": "/icon.png",
+      "sizes": "1024x1024",
+      "type": "image/png"
+    }
+  ]
+}
