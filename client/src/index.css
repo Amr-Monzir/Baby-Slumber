@@ -73,6 +73,16 @@
 body {
   @apply font-sans antialiased bg-background text-foreground min-h-screen overscroll-none;
   -webkit-tap-highlight-color: transparent;
+  padding: env(safe-area-inset-top) env(safe-area-inset-right) env(safe-area-inset-bottom) env(safe-area-inset-left);
+}
+
+html {
+  height: -webkit-fill-available;
+}
+
+#root {
+  min-height: 100vh;
+  min-height: -webkit-fill-available;
 }
 
 /* Custom Scrollbar */

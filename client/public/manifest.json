@@ -3,14 +3,17 @@
   "short_name": "BabySleep",
   "start_url": "/",
   "display": "standalone",
+  "orientation": "portrait",
   "background_color": "#1c2333",
   "theme_color": "#1c2333",
   "description": "Soothing white noise for better baby sleep.",
+  "categories": ["health", "lifestyle"],
   "icons": [
     {
       "src": "/icon.png",
-      "sizes": "1024x1024",
-      "type": "image/png"
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
     }
   ]
 }
