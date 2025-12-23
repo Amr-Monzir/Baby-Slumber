@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">BabySleep</string>
+    <string name="title_activity_main">BabySleep</string>
+    <string name="package_name">com.babysleep.whitenoise</string>
+    <string name="custom_url_scheme">com.babysleep.whitenoise</string>
+</resources>
